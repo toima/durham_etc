@@ -1,0 +1,4 @@
+name: durham
+markdown: redcarpet
+pygments: true
+baseurl: /durham
