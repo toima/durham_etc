@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Durham memo
+title: Durham etc
 home: true
 ---
