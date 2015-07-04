@@ -8,8 +8,6 @@ image-attribution: Matt Biddulph
 image-attribution-link: http://www.flickr.com/photos/mbiddulph/2133911076/
 ---
 
-[TOC]
-
 ## [お店のメニュー写真(urbanspoon)](http://www.urbanspoon.com/cities/25-research-triangle/restaurants/1539213-super-taqueria/menu?utm_source=Google&utm_medium=Local&utm_campaign=GoogleMenus)
 
 ## PLATILLOS （プレート料理）
